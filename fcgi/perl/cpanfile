@@ -1,0 +1,3 @@
+requires 'FCGI';
+requires 'AnyEvent::FCGI';
+requires 'EV';

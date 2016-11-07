@@ -1,0 +1,2 @@
+requires 'Plack::Handler::HTTP::Server::Simple';
+requires 'Plack';
